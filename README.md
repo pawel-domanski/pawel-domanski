@@ -33,7 +33,7 @@ I have over 25 years of experience in both Oracle and Microsoft SQL Server datab
 
 ### Badges
 
-![AWS Certified Cloud Practitioner](./badges/aws-certified-cloud-practitioner.png {width=120px height=120px})
+![AWS Certified Cloud Practitioner](./badges/aws-certified-cloud-practitioner.png)
 
 
 <b>My GitHub Stats</b>
