@@ -33,9 +33,7 @@ I have over 25 years of experience in both Oracle and Microsoft SQL Server datab
 
 ### Badges
 
-<img src="./badges/aws-certified-cloud-practitioner.png" width="120">
-<img src="./badges/data-science-foundations-level-1.png" width="120">
-<img src="./badges/docker-essentials-a-developer-introduction.png" width="120">
+<img src="./badges/aws-certified-cloud-practitioner.png" width="120"> <img src="./badges/data-science-foundations-level-1.png" width="120"> <img src="./badges/docker-essentials-a-developer-introduction.png" width="120">
 <img src="./badges/ibm-blockchain-essentials.png" width="120">
 <img src="./badges/ibm-blockchain-foundation-developer.png" width="120">
 <img src="./badges/ibm-cloud-essentials.png" width="120">
