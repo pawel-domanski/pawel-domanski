@@ -8,7 +8,7 @@ I have over 25 years of experience in both Oracle and Microsoft SQL Server datab
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [pawel@dexterlab.pl](mailto:pawel@dexterlab.pl)
-* 🚀  I'm currently working on [Kyndryl](http://kyndryl.com)
+* 🚀  I'm currently working on 
 * 🧠  I'm learning Python, Machine Learning, Data Science
 
 ### Skills
